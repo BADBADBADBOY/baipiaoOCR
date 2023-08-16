@@ -25,3 +25,7 @@ python test_recog.py
 
 
 <img src="./doc/show/2.jpg" width=600 height=600 />
+
+### 参考文献
+
+https://github.com/PaddlePaddle/PaddleOCR
