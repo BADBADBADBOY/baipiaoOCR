@@ -27,7 +27,7 @@ https://aistudio.baidu.com/projectdetail/6645344?contributionType=1
 我这里提供一个aistudio，大家可以去fork，选择PPOCRfinal版本，使用免费资源的基础版环境即可，使用GPU版本不能使用torch。
 
 <img src="./doc/aistudio1.jpg" width=465 height=387 />
-<img src="./doc/aistudio1.jpg" width=465 height=425 />
+<img src="./doc/aistudio2.jpg" width=465 height=425 />
 
 ### 参考文献
 
