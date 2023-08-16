@@ -1,6 +1,6 @@
 # baipiaoOCR
 
-convert paddleOCR to torchOCR, ppocr-v3,ppocr-v4, onnx, openvino
+将 paddleOCR 转 torchOCR, 支持ppocr-v3,ppocr-v4转torch, onnx, openvino。
 
 ### 快速开始，运行下面命令，一键转成torch和onnx和openvino，支持ppOCR-v3和ppOCR-v4。
 
