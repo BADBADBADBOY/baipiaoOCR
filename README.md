@@ -18,7 +18,7 @@ sh install.sh
 python test_serviceOCRModule.py
 ```
 
-### 其他测试
+### 其他测试，支持pytorch GPU调用，onnx调用，openvino调用，例子都在下面
 ```
 python test_cls.py
 python test_detect.py
