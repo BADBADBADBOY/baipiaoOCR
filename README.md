@@ -1,5 +1,7 @@
 # baipiaoOCR
 
+旨在白嫖paddleOCR训练好的模型用于部署使用。
+
 将 paddleOCR 转 torchOCR, 支持ppocr-v3,ppocr-v4转torch, onnx, openvino。
 
 ### 快速开始，运行下面命令，一键转成torch和onnx和openvino，支持ppOCR-v3和ppOCR-v4。
@@ -28,6 +30,10 @@ https://aistudio.baidu.com/projectdetail/6645344?contributionType=1
 
 <img src="./doc/aistudio1.jpg" width=465 height=387 />
 <img src="./doc/aistudio2.jpg" width=465 height=425 />
+
+### 训练
+
+你可以用paddleOCR训练这三个模型，训练完后，把模型拷贝到对应的origin_model_dir/ppocr_weights里面，然后一键转换。
 
 ### 参考文献
 
