@@ -1,0 +1,1 @@
+python ocrDetect/convert.py --origin_model_file ./ocrDetect/origin_model_dir/ppocr_weights/model_det.pkl --new_model_file ./ocrDetect/new_model_dir/detect.pth

@@ -1,0 +1,1 @@
+python ocrRecog/convert.py --origin_model_file ./ocrRecog/origin_model_dir/ppocr_weights/model_rec.pkl --new_model_file ./ocrRecog/new_model_dir/recog.pth --n_classes 6625

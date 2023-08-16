@@ -1,0 +1,9 @@
+sh scripts/convert_cls.sh
+sh scripts/convert_detect.sh
+sh scripts/convert_recog.sh
+sh scripts/to_onnx_openvino.sh
+sh scripts/get_infer.sh
+python test_cls.py
+python test_detect.py
+python test_recog.py
+python test_serviceOCRModule.py
